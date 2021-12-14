@@ -1,0 +1,17 @@
+.display{
+    background-color: rgb(240, 228, 228);
+    height: 84vh;
+    overflow-y: auto;
+    
+}
+
+span{
+    border: 0.5px solid black;
+    background-color: white;
+    padding: 10px;
+    border-radius: 8px;
+}
+.text{
+    padding: 15px;
+    margin: 5px;
+}

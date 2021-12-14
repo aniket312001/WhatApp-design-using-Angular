@@ -1,0 +1,31 @@
+.bar{
+    display: flex;
+    /* border: 1px solid rosybrown; */
+    padding: 5px;
+    background-color: rgb(226, 222, 222);
+}
+
+.myinput input{
+    width: 95vh;
+    height: 5vh;
+    margin-left: 33px;
+    margin-top: 3px;
+    border-radius: 44px;
+    padding-left: 24px;
+    font-size: large;
+}
+
+.smile{
+    font-size: 45px;
+    margin-left: 15px;
+}
+
+.attach{
+    font-size: 45px;
+    margin-left: 17px;
+}
+
+.voice{
+    font-size: 45px;
+    margin-left: auto;
+}

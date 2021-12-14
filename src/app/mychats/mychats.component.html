@@ -1,0 +1,16 @@
+<app-chat-heading [data] ="chat1" ></app-chat-heading>
+<!-- {{chat1 | json}} -->
+
+<div class="display" >
+
+    <div class="msg" *ngFor="let i of chat1.message" >
+        <div class="text">
+
+            <span >
+                {{i}}
+            </span>
+        </div>
+    </div>
+</div>
+
+<app-chat-textbar></app-chat-textbar>

@@ -1,0 +1,28 @@
+.myheader{
+    display: flex;
+    /* border: 2px solid black; */
+    padding: 2px 2px;
+    background-color: rgb(226, 222, 222);
+}
+
+.Myimage img{
+    width: 40px;
+    border-radius: 50px;
+}
+
+.mystatus{
+    font-size: 40px;
+    margin-left:auto ;
+
+}
+
+.mynewchat{
+    font-size: 40px;
+    margin: 2px 15px;
+}
+
+.mymenu{
+    font-size: 40px;
+    margin: 2px 15px;
+}
+

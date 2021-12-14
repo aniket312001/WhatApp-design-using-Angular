@@ -1,0 +1,13 @@
+
+<div class="container">
+
+    <div class="myData" *ngFor="let i of data">
+        <img src="../../assets/{{i.img}}" alt="">
+        <a [routerLink]="['/chat', i.name]">
+            <div class="nameData">
+                {{i.name}}
+            </div>
+        </a>
+    
+    </div>
+</div>

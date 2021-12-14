@@ -1,0 +1,10 @@
+.MessagemainPage{
+    box-sizing: border-box;
+    width: 130vh;
+    
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  
+    
+}

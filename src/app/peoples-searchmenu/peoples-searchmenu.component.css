@@ -1,0 +1,14 @@
+input{
+    width: 93%;
+    padding: 14px 15px;
+    border-radius: 45px;
+}
+
+input:hover{
+    border-radius: 0px;
+}
+
+div{
+    padding: 5px;   
+    background-color: rgb(240, 238, 238);
+}

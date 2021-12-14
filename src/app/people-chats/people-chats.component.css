@@ -1,0 +1,29 @@
+.container{
+    overflow-y: auto;
+    height: 70%;
+}
+
+.myData{
+    padding: 5px 5px;
+    display: flex;
+    border-bottom:2px solid rgb(247, 246, 246);
+}
+
+.myData:hover{
+    background-color: rgb(240, 233, 233);
+}
+
+.nameData{
+    font-size: 54px;
+    padding: 4px 35px;
+}
+
+.myData img{
+    width: 50px;
+    border-radius: 50%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
